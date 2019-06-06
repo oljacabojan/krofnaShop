@@ -1,13 +1,13 @@
 # krofnaShop
 
-<h2 align="center">Krofna Shop</h2>
-
 ### Porucivanje krofni putem online servisa
 
 Projekat predstavlja online shop, prikazuje vrste krofni koje su u ponudi. Kupac ima mogucnost izbora vrste i kolicine krofni, koju zeli da poruci.
 Za strukturu i izgled sajta korišćeni su Html i Css, a za dinamičnost i interakciju sa korisnikom JavaScript/jQuery.
 
 ### Struktura
+
+```
 .
 ├── css
 │   └── main.css
@@ -19,7 +19,8 @@ Za strukturu i izgled sajta korišćeni su Html i Css, a za dinamičnost i inter
 │       └── jquery.js
 ├── .editorconfig
 ├── favicon.ico
-└── index.htm
+└── index.html
+```
 
 ### Pokretanje
 

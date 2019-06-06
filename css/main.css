@@ -38,6 +38,10 @@ span {
   text-transform: uppercase;
 }
 
+main {
+  display: none;
+}
+
 #krofne {
   display: -webkit-box;
   display: -ms-flexbox;

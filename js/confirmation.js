@@ -1,0 +1,1 @@
+localStorage.cart = JSON.stringify([]);

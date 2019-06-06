@@ -10,15 +10,15 @@ Za strukturu i izgled sajta korišćeni su Html i Css, a za dinamičnost i inter
 ```
 .
 ├── css
-│   └── main.css
-├── doc
+│   ├── main.css
+│   └── main.css.map
 ├── img
 ├── js
-│   ├── main.js
-│   └── vendor
-│       └── jquery.js
-├── .editorconfig
-├── favicon.ico
+│   ├── confirmation.js
+│   └── main.js
+├── sass
+│   └── main.scss
+├── confiramtion.html
 └── index.html
 ```
 

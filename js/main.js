@@ -71,7 +71,7 @@ function showCart() {
         $("#cart_holder").append(row);
         total = total + product.quantity * product.price;
     }
-    var row = "<tr><td colspan='5'>Ukupno: " + total + " dinara</td></tr>";
+    var row = "<tr><td colspan='5'><mark>Ukupno: " + total + " dinara</mark></td></tr>";
     $("#cart_holder").append(row);
 }
 
